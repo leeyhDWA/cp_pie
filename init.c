@@ -26,3 +26,8 @@ void init_maf(void)
 
 
 }
+
+void new_feature1(void)
+{
+    
+}

@@ -23,3 +23,9 @@ void maf(void)
 
     return;
 }
+
+void new_feature1_mmm(void)
+{
+
+    return;
+}
