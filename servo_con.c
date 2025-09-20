@@ -16,3 +16,10 @@ void notchfilter(void)
 
 
 }
+
+/* 2025-09-20 16:33*/
+void maf(void)
+{
+
+    return;
+}

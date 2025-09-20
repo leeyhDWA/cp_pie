@@ -20,3 +20,9 @@ void init_notchfilter(void)
 
     
 }
+
+void init_maf(void)
+{
+
+
+}
