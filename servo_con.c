@@ -29,3 +29,10 @@ void new_feature1_mmm(void)
 
     return;
 }
+
+
+void feature2(void)
+{
+
+    return;
+}
