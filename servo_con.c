@@ -1,8 +1,11 @@
 
 void pid_con_2(void)
 {
+    int var_q  ;
 
+    var_q = 0x1234;
 
+    return;
 }
 
 void pid_con(void)
