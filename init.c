@@ -1,3 +1,10 @@
+void init_apgc(void)
+{
+    int apgc_init = 1;
+
+}
+
+
 void init_pid(void)
 {
 
